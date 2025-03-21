@@ -3,4 +3,6 @@
   
   Before the design, we conducted a comprehensive system analysis and throughout the design process, we did evaluation experiments to identify and address areas for improvement, ensuring a user-friendly and efficient experience.
 
-You can check out the prototype through this link: (https://www.figma.com/proto/OKdCfQL61KiOgyVLeDQfNO/HCI-2?node-id=311-395&starting-point-node-id=249%3A340&show-proto-sidebar=1&t=XsfJMhbAzBWEIieh-1)
+You can check out the prototype through this link: https://www.figma.com/proto/OKdCfQL61KiOgyVLeDQfNO/HCI-2?node-id=311-395&starting-point-node-id=249%3A340&show-proto-sidebar=1&t=XsfJMhbAzBWEIieh-1
+
+you can also check the report through this link: https://drive.google.com/file/d/1-0bG44xA5jCeGWSQxBiwa-43lT_jsnzB/view?usp=sharing
